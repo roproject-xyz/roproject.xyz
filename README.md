@@ -20,6 +20,9 @@ Open a pull request that adds your domain to `active-domains.json`. Your domain 
 
 ---
 
+## Terms
+[https://roproject.xyz/terms.html](https://roproject.xyz/terms.html)
+
 ## What am I accepting?
 Your project must be related to roblox. I am not giving names out to cafes, hotels, etc. 
 
