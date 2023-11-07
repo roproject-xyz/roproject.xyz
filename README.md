@@ -21,6 +21,7 @@ Open a pull request that adds your domain to `active-domains.json`. Your domain 
 ---
 
 ## Terms
+**Terms have recently been updated (07/11/2023)**
 [https://roproject.xyz/terms.html](https://roproject.xyz/terms.html)
 
 ## What am I accepting?
