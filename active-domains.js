@@ -9,3 +9,7 @@
   please email me here: report@roproject.xyz
   
 */
+
+var activeDomains = {
+ // "example": "example.github.io", // Here's an example of a domain.
+}
