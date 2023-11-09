@@ -32,3 +32,8 @@ Please email me here: `report@roproject.xyz`
 
 ## Support
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/flvffy)
+
+---
+
+## Hardware
+I got the domain from [namecheap](https://namecheap.com), and I'm currently using [cloudflare](https://cloudflare.com) free.
