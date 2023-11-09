@@ -16,7 +16,7 @@ Now you need to choose a name. This should be similar to your gh pages url (e.g.
 Add a `CNAME` file in your gh-pages branch and point it towards your chosen domain.
 
 ### Step 4
-Open a pull request that adds your domain to `active-domains.json`. Your domain should be live within 48hrs depending on when I add it, I will try to check the PRs daily.
+Open a pull request that adds your domain to `active-domains.js`. Your domain should be live within 48hrs depending on when I add it, I will try to check the PRs daily.
 
 ---
 
